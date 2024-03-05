@@ -1,13 +1,15 @@
 <h2 align="center"> < hi ></h2>
 
 <div align="center">
+<img align="center" height="121" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Riszz-33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rizz-33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-<img align="center" height="121" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -63,3 +65,6 @@
   </a>
 </div>
 
+<h2 align="center"> < / hi ></h2>
+
+<h2 align="center"> < hi ></h2>
