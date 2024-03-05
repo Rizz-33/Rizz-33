@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Riszz-33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Rizz-33&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rizz-33&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -44,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
 </div>
 
-<br>
+
 
 <div align="center">
   <a href="warushayohan80@gmail.com" target="_blank">
@@ -64,9 +64,6 @@
   </a>
   <a href="https://www.hackerrank.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  </a>
-  <a>
-    <img src="j" height="25" alt="hackerrank logo"  />
   </a>
 </div>
 
