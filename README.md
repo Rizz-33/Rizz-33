@@ -10,6 +10,8 @@
   <img src="https://streak-stats.demolab.com?user=Rizz-33&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=36" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rizz-33&locale=en&hide_title=false&layout=compact&card_width=320&border_radius=16&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
   <img width="12" />
