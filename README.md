@@ -6,7 +6,7 @@
 
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rizz-33&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=36" height="150" width="300" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Rizz-33&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=36" height="150" width="310" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rizz-33&locale=en&hide_title=false&layout=compact&border_radius=16&langs_count=6&theme=dracula&hide_border=true" width="450" height="150" alt="languages graph"  />
 </div>
 
