@@ -3,7 +3,7 @@
 <div align="center">
 <img align="center" height="121" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rizz-33)](https://git.io/streak-stats)
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Rizz-33&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=16" height="150" alt="streak graph"  />
