@@ -27,9 +27,5 @@
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRizz-33"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRizz-33&label=Profile%20Views&labelColor=%23282a36&countColor=%2344475a&style=flat&labelStyle=none" /></a>
 </div>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Rizz-33&label=Profile%20Views&icon=0&pretty=true" />
-</a>
-
 <h2 align="center"> < / hi ></h2>
 
