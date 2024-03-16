@@ -4,6 +4,8 @@
 <img align="center" height="121" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 <br>
+
+<br>
 <p align="center">
      <samp>
        <a href="mailto:aarruwanthie@gmail.com" target="_blank">Gmail</a> .
@@ -21,5 +23,8 @@
 </div>
 
 <br>
+<div align="center">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRizz-33"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRizz-33&label=Profile%20Views&labelColor=%23282a36&countColor=%2344475a&style=flat&labelStyle=none" /></a>
+</div>
 <h2 align="center"> < / hi ></h2>
 
