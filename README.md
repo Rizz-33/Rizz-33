@@ -3,7 +3,6 @@
 <div align="center">
 <img align="center" height="121" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-<br>
 
 <br>
 <p align="center">
