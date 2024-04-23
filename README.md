@@ -28,3 +28,6 @@
 
 <h2 align="center"> < / hi ></h2>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rizz-33&label=Profile%20Views&color=12&icon=5&pretty=false" />
+</a>
