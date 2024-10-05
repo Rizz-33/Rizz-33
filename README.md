@@ -18,9 +18,8 @@
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Rizz-33&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=16" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rizz-33&locale=en&hide_title=false&include_all_commits=true&count_private=false&layout=compact&border_radius=16&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizz-33&hide_title=false&count_private=true&layout=compact&border_radius=16&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
-
 <br>
 <div align="center">
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FRizz-33"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRizz-33&label=Profile%20Views&labelColor=%23282a36&countColor=%2344475a&style=flat&labelStyle=none" /></a>
